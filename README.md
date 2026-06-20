@@ -1,16 +1,111 @@
-## Hi there 👋
+<!-- Typing animation header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=800&color=00BFFF&center=true&vCenter=true&width=550&lines=Hi+There!+👋;I'm+Mayureshwar+Bhardwaj!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</h1>
 
-<!--
-**mayurbhardwaj105-ui/mayurbhardwaj105-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  🚀 <span style="color:#00BFFF;">Computer Science Graduate</span> | 💡 <span style="color:#FFD700;">Aspiring Cyber Security Engineer</span>
+</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284313-3e7b5c17-6980-4f5b-bb29-1fbfcb5e6d77.gif" width="700" alt="divider"/>
+</p>
+
+<h2 align="center">
+  👨‍💻 About Me
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mayureshwar-bhardwaj-90717b2b6" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="35" />
+  </a>
+</h2>
+
+<p align="center">
+  I’m a Computer Science graduate passionate about Cybersecurity and Information Security. With knowledge of network security, vulnerability assessment,
+  and cloud security fundamentals, I aim to design and implement secure, scalable systems that safeguard critical data and infrastructure.
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Matrix coding animation"/>
+
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284313-3e7b5c17-6980-4f5b-bb29-1fbfcb5e6d77.gif" width="700" alt="divider"/>
+</p>
+
+<h2 align="center">🌱 What I'm Currently Up To</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🔭+Brushing+up+my+Data+Structures+and+Algorithms;🌱+Learning+Cyber+Security+Tools;☁️+Exploring+Cloud+and+MLOps+with+AWS+%26+Kubernetes;👯+Collaborating+on+Open+Source+Projects"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284313-3e7b5c17-6980-4f5b-bb29-1fbfcb5e6d77.gif" width="700" alt="divider"/>
+</p>
+
+<h2 align="center">🔥 Languages, Frameworks & Tools</h2>
+
+<h3 align="center">☕ Backend & Programming</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" alt="Maven" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" width="50" />
+</p>
+
+<h3 align="center">☁️ Cloud, DevOps & MLOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux" />
+</p>
+
+<h3 align="center">🧰 Other Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50" alt="IntelliJ" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" alt="Jupyter Notebook" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284313-3e7b5c17-6980-4f5b-bb29-1fbfcb5e6d77.gif" width="700" alt="divider"/>
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurbhardwaj105-ui&theme=react&border=61dafb&hide_border=true" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=mayurbhardwaj105-ui&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="stats graph"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayurbhardwaj105-ui&layout=compact&theme=react&hide_border=true&langs_count=10" alt="top langs"/>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284313-3e7b5c17-6980-4f5b-bb29-1fbfcb5e6d77.gif" width="700" alt="divider"/>
+</p>
+
+<h2 align="center">💬 Quote I Live By</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=%22Code.+Learn.+Evolve.+Repeat.%22;Keep+building,+keep+learning!"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayurbhardwaj105-ui&label=Profile%20views&color=00BFFF&style=for-the-badge" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="powered by coffee"/>
+  <img src="https://forthebadge.com/images/badges/uses-brains.svg" alt="uses brains"/>
+</p>
