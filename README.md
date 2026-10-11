@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <b>Restaurant Prediction App</b> (Python, Scikit-learn, Pandas, Streamlit)<br>
+  <a href="https://github.com/mayurbhardwaj105-ui/Portfolio/tree/main/restaurant-prediction-app"><b>Restaurant Prediction App</b></a> (Python, Scikit-learn, Pandas, Streamlit)<br>
   End-to-end ML app that forecasts next-day restaurant footfall from historical daily data, with a Gradient Boosting model
   on 17 engineered features and a Streamlit dashboard. About 6% average error on simulated data, roughly 60% lower than a
   "same day last week" baseline.
