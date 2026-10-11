@@ -70,7 +70,7 @@
 <p align="center">
   <a href="https://github.com/mayurbhardwaj105-ui/Salon"><b>Salon</b></a> — Customer registration and JWT authentication backend with BCrypt password hashing,
   JWT stored in an HTTP-only cookie, and an interceptor that protects customer routes.
-  <br><i>Java, Spring Boot, JWT, MySQL</i>
+  <br><i>Python, FastAPI, PyJWT, MySQL</i>
 </p>
 
 <p align="center">
